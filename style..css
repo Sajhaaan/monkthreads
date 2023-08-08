@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    min-height: 100vh; /* Ensure the container takes up at least the full viewport height */
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+/* .center-container {
+    text-align: center; 
+} */
+
+/* .centered-text {
+    display: inline-block; 
+    background-color: #e0e0e0;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+ */
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
