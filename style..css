@@ -8,17 +8,17 @@ body {
     color: rgb(255, 255, 255);
 }
 
-/* .center-container {
-    text-align: center; 
-} */
+.center-container {
+    text-align: center; /* Center the text horizontally */
+}
 
-/* .centered-text {
+.centered-text {
     display: inline-block; 
     background-color: #e0e0e0;
     padding: 10px 20px;
     border-radius: 5px;
 }
- */
+
 
 h1 {
     font-family: 'Poppins', sans-serif;
